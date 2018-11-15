@@ -1,0 +1,17 @@
+.btnPor{
+	width: 100%;
+	padding: 10px;
+	margin-bottom: 10px;
+	border:none;
+	background: #333;
+	color: white;
+	border-radius: 15px;
+}
+.btnPor:hover{
+opacity: 0.9;
+}
+.ImagLog{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
